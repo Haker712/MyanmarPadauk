@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="StarIOPort">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/StarIOPort.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

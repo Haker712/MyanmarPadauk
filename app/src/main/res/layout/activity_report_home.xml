@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.aceplus.myanmar_padauk.report.ReportHomeActivity"
+    android:orientation="vertical" >
+
+	<RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="13dp"
+        android:paddingTop="13dp"
+        android:background="#D77E0F" >
+        
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            style="?android:attr/buttonStyleSmall"
+            android:text="@string/cancel"
+            android:background="#292321"
+            android:textColor="#FFFFFF" />
+
+        <Spinner
+            android:id="@+id/reports"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="@string/report"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ffffff" />
+    </RelativeLayout>
+
+	<LinearLayout
+	    android:id="@+id/fragment_report"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:orientation="vertical">
+	</LinearLayout>
+</LinearLayout>

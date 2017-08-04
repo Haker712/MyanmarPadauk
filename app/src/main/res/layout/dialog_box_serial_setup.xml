@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+	<LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="right">
+	    
+	    <Button
+	        android:id="@+id/add"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_margin="5dp"
+	        android:text="Add"
+	        android:background="#D77E0F"
+	        android:textColor="#FFFFFF" />
+	</LinearLayout>
+
+	<LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:weightSum="5">
+	    
+	    <TextView
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:gravity="center_horizontal"
+	        android:text="@string/number" />
+
+	    <TextView
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:gravity="center_horizontal"
+	        android:text="@string/quantity" />
+
+	    <TextView
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:gravity="center_horizontal"
+	        android:text="@string/from" />
+
+	    <TextView
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:gravity="center_horizontal"
+	        android:text="@string/to" />
+	</LinearLayout>
+	
+	<ListView 
+	    android:id="@+id/serialList"
+	    android:layout_width="match_parent"
+	    android:layout_height="200dp" />
+</LinearLayout>

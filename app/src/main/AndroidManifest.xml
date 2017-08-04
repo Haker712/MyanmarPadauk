@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.aceplus.myanmar_padauk"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.CLEAR_APP_CACHE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:name=".utils.ClearDB_and_Cache">
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/title_activity_data_download"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".CustomerActivity"
+            android:label="@string/title_activity_customer"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".package_sale.PackageSaleActivity"
+            android:label="@string/title_activity_package_sale"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".package_sale.PackageSaleCheckoutActivity"
+            android:label="@string/title_activity_package_sale_checkout"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".package_sale.PackageSalePrint"
+            android:label="@string/title_activity_package_sale_print"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".general_sale.GeneralSaleActivity"
+            android:label="@string/title_activity_general_sale"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".general_sale.GeneralSaleCheckoutActivity"
+            android:label="@string/title_activity_general_sale_checkout"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".general_sale.GeneralSalePrintActivity"
+            android:label="@string/title_activity_general_sale_print"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".DataDownloadActivity"
+            android:label="@string/title_activity_data_download"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".report.ReportHomeActivity"
+            android:label="@string/title_activity_report_home"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".AddNewCustomerActivity"
+            android:label="@string/title_activity_add_new_customer"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".delivery.DeliveryActivity"
+            android:label="@string/title_activity_delivery"
+            android:screenOrientation="landscape" >
+        </activity>
+
+
+        <activity
+            android:name=".item_volume_dis_sale.ItemVolumeDisSaleActivity"
+            android:label="@string/title_activity_general_sale"
+            android:screenOrientation="landscape" >
+        </activity>
+
+        <activity
+            android:name=".item_volume_dis_sale.ItemVolumeDisSaleCheckoutActivity"
+            android:label="@string/title_activity_general_sale"
+            android:screenOrientation="landscape" >
+        </activity>
+    </application>
+
+</manifest>

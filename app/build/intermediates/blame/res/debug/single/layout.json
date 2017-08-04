@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/dialog_box_custom_discount.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/dialog_box_custom_discount.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/activity_package_sale_checkout.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/activity_package_sale_checkout.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/list_row_pre_order_report.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/list_row_pre_order_report.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/activity_add_new_customer.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/activity_add_new_customer.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/dialog_box_pre_order_products.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/dialog_box_pre_order_products.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/activity_report_home.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/activity_report_home.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/activity_general_sale.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/activity_general_sale.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/fragment_sale_invoice_report.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/fragment_sale_invoice_report.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/dialog_box_serial_setup.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/dialog_box_serial_setup.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/activity_package_sale_print.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/activity_package_sale_print.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/fragment_pre_order_report.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/fragment_pre_order_report.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/list_row_delivery_product.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/list_row_delivery_product.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/list_row_sold_product.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/list_row_sold_product.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/request_activation_code_dialog_box.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/request_activation_code_dialog_box.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/dialog_box_delivery_products.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/dialog_box_delivery_products.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/activity_customer.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/activity_customer.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/custom_simple_list_item_1.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/custom_simple_list_item_1.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/dialog_box_serial_add.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/dialog_box_serial_add.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/activity_general_sale_checkout.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/activity_general_sale_checkout.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/fragment_product_balance_report.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/fragment_product_balance_report.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/activity_package_sale.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/activity_package_sale.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/list_row_delivery_report.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/list_row_delivery_report.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/list_row_sale_invoice_report.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/list_row_sale_invoice_report.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/list_row_sold_product_for_print.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/list_row_sold_product_for_print.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/list_row_customer_feedback_report.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/list_row_customer_feedback_report.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/list_row_sold_product_with_custom_discount.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/list_row_sold_product_with_custom_discount.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/dialog_box_sale_quantity.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/dialog_box_sale_quantity.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/fragment_customer_feedback_report.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/fragment_customer_feedback_report.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/list_row_pre_order_product.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/list_row_pre_order_product.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/activity_data_download.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/activity_data_download.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/list_row_product_balance_report.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/list_row_product_balance_report.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/activity_general_sale_print.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/activity_general_sale_print.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/dialog_box_customer_feedback.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/dialog_box_customer_feedback.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/activity_delivery.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/activity_delivery.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/list_row_sold_product_with_serial_setup.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/list_row_sold_product_with_serial_setup.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/list_row_serial.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/list_row_serial.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/request_extra_discount_dialog_box.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/request_extra_discount_dialog_box.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/layout/fragment_delivery_report.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/layout/fragment_delivery_report.xml"
+    }
+]

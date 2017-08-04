@@ -1,0 +1,247 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.aceplus.myanmar_padauk.AddNewCustomerActivity" >
+
+    <RelativeLayout
+        android:id="@+id/headerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#D77E0F"
+        android:paddingBottom="13dp"
+        android:paddingTop="13dp" >
+        
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            style="?android:attr/buttonStyleSmall"
+            android:text="@string/cancel"
+            android:background="#292321"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="Add New Customer"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ffffff" />
+    </RelativeLayout>
+	<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@id/headerLayout">
+
+		<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_marginTop="10dp"
+		android:layout_marginLeft="100dp"
+		android:layout_marginRight="100dp"
+		android:orientation="vertical">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+
+			<TextView
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:text="Customer Name:" />
+
+			<EditText
+				android:id="@+id/customerName"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="3"
+				android:singleLine="true"
+				android:hint="Enter Customer Name" />
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="10dp">
+
+			<TextView
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:text="Contact Person:" />
+
+			<EditText
+				android:id="@+id/contactPerson"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="3"
+				android:singleLine="true"
+				android:hint="Enter Contact Person" />
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="10dp">
+
+			<TextView
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:text="Phone Number:" />
+
+			<EditText
+				android:id="@+id/phoneNumber"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="3"
+				android:singleLine="true"
+				android:hint="Enter Phone Number"
+				android:inputType="phone" />
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="10dp">
+
+			<TextView
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:text="Address:" />
+
+			<EditText
+				android:id="@+id/address"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="3"
+				android:lines="3"
+				android:hint="Enter Address" />
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="10dp">
+
+			<TextView
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:text="Township:" />
+
+			<Spinner
+				android:id="@+id/township"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="3" />
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="10dp">
+
+			<TextView
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:text="Customer Category:" />
+
+			<Spinner
+				android:id="@+id/customerCategoryList"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="3" />
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="10dp">
+
+			<TextView
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:text="Zone:" />
+
+			<Spinner
+				android:id="@+id/zoneList"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="3" />
+		</LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Payment Type:" />
+
+                <RadioGroup
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="10dp">
+
+                    <RadioButton
+                        android:id="@+id/radioCash"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Cash"/>
+
+                    <RadioButton
+                        android:id="@+id/radioCredit"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Credit"/>
+
+                </RadioGroup>
+            </LinearLayout>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:weightSum="8"
+			android:layout_marginTop="10dp"
+			android:gravity="right">
+
+			<Button
+				android:id="@+id/addCustomer"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="3"
+				android:layout_marginRight="5dp"
+				android:text="Add"
+				android:background="#D77E0F" />
+
+			<Button
+				android:id="@+id/reset"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="3"
+				android:layout_marginLeft="5dp"
+				android:text="Reset"
+				android:background="#D77E0F" />
+		</LinearLayout>
+
+	</LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/menu/delivery.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/menu/delivery.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/menu/report_home.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/menu/report_home.xml"
+    },
+    {
+        "merged": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/res/merged/debug/menu/add_new_customer.xml",
+        "source": "/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/src/main/res/menu/add_new_customer.xml"
+    }
+]

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/libs/StarIOPort.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e2b0f8ddda6836a68f276523d9e858922624debf">
+        <dex dex="/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/pre-dexed/debug/StarIOPort_03ae3d4475f24ee1a6a342126018740d447135e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="609bb40901d2461a1e90eda415cdefd0c6ed2c21">
+        <dex dex="/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/pre-dexed/debug/instant-run_aef4cba4ee1c8996c219d8988af9e008a348415c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_8d42ebe0b3ca0c744adf5f8e9ffd716f4ee3e88d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eiphyuphwe/Desktop/soenaingtun/Desktop/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_eea538469613a829381dcb84adaae3097d31d7f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_93c1ac5956aebc7ba3c0960e8f6747e02a71c7e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eiphyuphwe/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/pre-dexed/debug/gson-2.6.2_54caab86d5050b5e688e099379cb64a541e4ca92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="82ca5c80b0bfbd05cdedc2dba81645d131efe24b">
+        <dex dex="/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_474ace10b4edf82688ea0e0a4eebfd7b067917ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/eiphyuphwe/Desktop/HAK_Source/MMPD AS Project Update(6.6.16)/MMPD(KPTA)/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.0_91c7e8398adcd36bc0e8ffb353ac9ac98060bebc.jar" />
+    </item>
+
+</items>

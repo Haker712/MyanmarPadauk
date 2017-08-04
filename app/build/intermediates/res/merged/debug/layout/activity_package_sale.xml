@@ -1,0 +1,207 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="13dp"
+        android:paddingTop="13dp"
+        android:background="#D77E0F" >
+        
+        <Button
+            android:id="@+id/cancel"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:text="@string/cancel"
+            android:background="#292321"
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/checkout"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="10dp"
+            android:text="@string/checkout"
+            android:background="#292321"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="@string/package_sale"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ffffff"
+            android:textSize="23sp" />
+    </RelativeLayout>
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:baselineAligned="false">
+        
+        <LinearLayout 
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+           	<EditText 
+                android:id="@+id/amount"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:inputType="number"
+                android:hint="@string/enter_amount" />
+
+           	<Button
+           	    android:id="@+id/findGrade"
+           	    android:layout_width="wrap_content"
+           	    android:layout_height="wrap_content"
+           	    android:text="@string/ok"
+           	    android:background="#D77E0F"
+           	    android:textColor="#FFFFFF" />
+            </LinearLayout>
+
+            <Spinner
+                android:id="@+id/packages"
+             	android:layout_width="match_parent"
+             	android:layout_height="wrap_content"
+             	android:layout_marginTop="20dp"
+             	android:visibility="invisible" />
+        </LinearLayout>
+
+        <RelativeLayout
+		    android:layout_width="0dp"
+		    android:layout_height="match_parent"
+		    android:layout_weight="2">
+            
+            <LinearLayout 
+                android:id="@+id/saleDateLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:gravity="right"
+                android:orientation="horizontal">
+                
+                <TextView 
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/sale_date"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+                
+                <TextView
+	                android:id="@+id/saleDate"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:padding="7dp"
+	                android:text="25/05/2015"
+	                android:textAppearance="?android:attr/textAppearanceMedium" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/headerLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/saleDateLayout"
+                android:layout_marginRight="10dp"
+                android:padding="10dp"
+                android:background="#898989">
+                
+                <TextView 
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:gravity="center_horizontal"
+                    android:text="@string/product"
+                    android:textStyle="bold"
+                    android:textColor="#ffffff" />
+                
+                <TextView 
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center_horizontal"
+                    android:text="@string/qty"
+                    android:textStyle="bold"
+                    android:textColor="#ffffff" />
+                
+                <TextView 
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center_horizontal"
+                    android:text="@string/price"
+                    android:textStyle="bold"
+                    android:textColor="#ffffff" />
+                
+                <TextView 
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center_horizontal"
+                    android:text="@string/discount"
+                    android:textStyle="bold"
+                    android:textColor="#ffffff" />
+                
+                <TextView 
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:gravity="center_horizontal"
+                    android:text="@string/amount"
+                    android:textStyle="bold"
+                    android:textColor="#ffffff" />
+            </LinearLayout>
+            
+            <LinearLayout
+                android:id="@+id/netAmountLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginRight="10dp">
+                
+                <TextView 
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="7"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/net_amount"
+                    android:textStyle="bold"/>
+                
+                <TextView
+                    android:id="@+id/netAmount"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:text="0.0"
+                    android:textStyle="bold"
+                    android:gravity="center_horizontal" />
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/soldProductList"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/headerLayout"
+                android:layout_above="@id/netAmountLayout"
+                android:layout_marginRight="10dp"
+                android:padding="10dp" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

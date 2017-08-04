@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="10dp"
+    android:paddingTop="10dp"
+    android:descendantFocusability="blocksDescendants" >
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="4"
+        android:gravity="center_horizontal"
+        android:text="Product Name" />
+
+    <TextView
+        android:id="@+id/orderedQuantity"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:gravity="center_horizontal"
+        android:text="Product Name" />
+
+    <Button
+        android:id="@+id/qty"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:text="20"
+        android:background="#D77E0F"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/price"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:text="100" />
+
+    <Button
+        android:id="@+id/discount"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:text="20"
+        android:background="#D77E0F"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/amount"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:gravity="center_horizontal"
+        android:text="1800" />
+</LinearLayout>
